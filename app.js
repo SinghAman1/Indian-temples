@@ -28,8 +28,8 @@ const User = require('./models/user')
 
 
 const MongoDBStore = require("connect-mongo")(session);
-
-const dbUrl = process.env.DB_URL || 'mongodb://localhost:27017/yelp-camp';
+// process.env.DB_URL ||
+const dbUrl =  'mongodb://localhost:27017/yelp-camp';
 
 mongoose.connect(dbUrl , {
     useNewUrlParser: true,
