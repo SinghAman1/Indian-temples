@@ -11,7 +11,7 @@ module.exports.isloggedin =(req,res,next) =>{
     return  res.redirect('/login');
   }   
   next();
-} 
+}  
 
 
 module.exports.isAuthor = async (req,res,next)=>{  
