@@ -4,14 +4,14 @@ A web app where an user can see famous temples in india . add new temples delete
 User Permissions :
 
 A user can
--register himself on the app 
--view temples 
--add reviews
+*register himself on the app 
+*view temples 
+*add reviews
  
 An Owner of a temple can
--view and edit his temple
--Delete temples made by him.
--add new images
+*view and edit his temple
+*Delete temples made by him.
+*add new images
 
 View live App
 Hosted at https://desolate-savannah-29894.herokuapp.com/
