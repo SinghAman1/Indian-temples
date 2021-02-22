@@ -14,16 +14,17 @@ An Owner of a temple can
 -add new images
 
 View live App
-Hosted at https://lib-manage.herokuapp.com/
+Hosted at https://desolate-savannah-29894.herokuapp.com/
 
-Tech Stack Used
+## Tech Stack Used
 
--MongoDB - Document database - to store data as JSON
--Express.js - Back-end web application framework running on top of Node.js
--Node.js - JavaScript runtime environment 
+* [MongoDB](https://docs.mongodb.com/) - Document database - to store data as JSON 
+* [Express.js](https://devdocs.io/express/) - Back-end web application framework running on top of Node.js
+* [Node.js](https://nodejs.org/en/docs/) - JavaScript runtime environment 
 
-Middleware
--Mongoose - ODM for MongoDB 
+### Middleware
+
+* [Mongoose](https://mongoosejs.com/docs/guide.html) - ODM for MongoDB
 
 
 ## Run it locally
