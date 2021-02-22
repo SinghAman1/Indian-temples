@@ -4,27 +4,26 @@ A web app where an user can see famous temples in india . add new temples delete
 User Permissions :
 
 A user can
-register himself on the app 
-view temples 
-add reviews
+-register himself on the app 
+-view temples 
+-add reviews
  
 An Owner of a temple can
-
-view and edit his temple
-Delete temples made by him.
-add new images
+-view and edit his temple
+-Delete temples made by him.
+-add new images
 
 View live App
 Hosted at https://lib-manage.herokuapp.com/
 
 Tech Stack Used
 
-MongoDB - Document database - to store data as JSON
-Express.js - Back-end web application framework running on top of Node.js
-Node.js - JavaScript runtime environment 
+-MongoDB - Document database - to store data as JSON
+-Express.js - Back-end web application framework running on top of Node.js
+-Node.js - JavaScript runtime environment 
 
 Middleware
-Mongoose - ODM for MongoDB 
+-Mongoose - ODM for MongoDB 
 
 
 ## Run it locally
