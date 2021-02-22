@@ -35,7 +35,7 @@
         
           <li class="list-group-item">  <%= ca.description %> </li> 
           <li class="list-group-item"> Submitted By :  <%= ca.author.username %> </li> 
-          <li class="list-group-item">price: $<%= ca.price %>/night</li>
+          <li class="list-group-item">price: Rs <%=  ca.price  %> /night</li>
         </ul> 
          <% if( currentUser && ca.author.equals(currentUser._id)) { %> 
         <div class="card-body mx-3">
