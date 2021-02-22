@@ -5,15 +5,15 @@ User Permissions :
 
 ## A user can
 
-*register himself on the app 
-*view temples 
-*add reviews
+1.register himself on the app 
+2.view temples 
+3.add reviews
  
 ## An Owner of a temple can
 
-*view and edit his temple
-*Delete temples made by him.
-*add new images
+1.view and edit his temple
+2.Delete temples made by him.
+3.add new images
 
 View live App
 Hosted at https://desolate-savannah-29894.herokuapp.com/
@@ -34,7 +34,7 @@ Hosted at https://desolate-savannah-29894.herokuapp.com/
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/himanshup/yelpcamp.git
+git clone https://github.com/SinghAman1/Indian-temples.git
 cd yelpcamp
 npm install
 ```
