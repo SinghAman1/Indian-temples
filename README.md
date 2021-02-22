@@ -1,19 +1,19 @@
 # Indian Temples web app
-A web app where an user can see famous temples in india . add new temples delete and review them.
-
-User Permissions :
+A web app where an user can see famous temples in India .Add new temples delete and review them.
 
 ## A user can
 
-1.register himself on the app 
-2.view temples 
+1.register himself on the app  
+2.view temples
 3.add reviews
+ 
  
 ## An Owner of a temple can
 
-1.view and edit his temple
+1.view and edit his temple.
 2.Delete temples made by him.
 3.add new images
+
 
 View live App
 Hosted at https://desolate-savannah-29894.herokuapp.com/
