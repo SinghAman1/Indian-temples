@@ -3,12 +3,12 @@ A web app where an user can see famous temples in india . add new temples delete
 
 User Permissions :
 
-A user can
+## A user can
 *register himself on the app 
 *view temples 
 *add reviews
  
-An Owner of a temple can
+## An Owner of a temple can
 *view and edit his temple
 *Delete temples made by him.
 *add new images
